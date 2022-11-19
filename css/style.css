@@ -1,0 +1,75 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{}
+
+.banner{
+    background-color: #43c2e7;
+    padding: 100px;
+    
+}
+
+.width{
+    max-width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.width h1{
+    color: white;
+    text-align: center;
+    font-size: 82px;
+}
+
+.width p{
+    color: white;
+    font-size: 29px;
+    text-align: center;
+}
+
+.service-box{
+    padding: 100px 100px 80px 100px;
+}
+
+.box{
+    max-width: 33.33%;
+    padding: 20px 35px;
+    box-sizing: border-box;
+}
+
+.box p{
+    color: black;
+    font-size: 28px;
+}
+
+.box h2{
+    text-align: center;
+    font-size: 30px;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.box div{
+    background-color: #5cbcd833;
+    border: 1px solid #5cbcd833;
+    padding: 20px;
+    box-shadow: 0px 5px 38px #0000003b;
+    border-radius: 5px;
+}
+
+#black{
+    color: black;
+}
+
+.inline-block{
+    background-color: aqua;
+    padding: 14px;
+    display: inline-block;
+    border-radius: 53px;
+}
+
+
+
